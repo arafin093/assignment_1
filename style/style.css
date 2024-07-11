@@ -4,7 +4,6 @@
 body{
     font-family: "Azeret Mono", monospace;
 }
-
 .banner-cont{
     width: 1440px;
     margin: 0px;
@@ -32,10 +31,9 @@ body{
     color: #0D1321;
     margin-bottom: 120px;
 }
-
 .style-btn{
-    width: 208px;
     height: 50px;
+    width: 208px;
     border-radius: 8px;
     background: #0D1321;
     text-decoration: none;
